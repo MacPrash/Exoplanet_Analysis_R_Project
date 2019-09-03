@@ -1,6 +1,5 @@
 ---
-title: "Exoplanet data analysis and Visualization"
-runtime: shiny
+
 output: rmarkdown::github_document
 ---
 
